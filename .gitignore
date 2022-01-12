@@ -1,2 +1,4 @@
 node_modules
 /lib
+guide.txt
+/src/runner.js
